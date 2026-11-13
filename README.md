@@ -1,102 +1,61 @@
-👋 Hey, I'm Dhyan Raj Bangera
+Dhyan Raj Bangera
 
-Engineering • Embedded Systems • Creative Technology
+Aspiring Engineer | Embedded Systems | Hardware Development
 
-I enjoy transforming ideas into working prototypes through electronics, programming, and hands-on engineering.
+I build practical projects that combine electronics, programming, and mechanical design. My interests include embedded systems, interactive hardware, microcontrollers, and 3D prototyping.
 
-I'm passionate about building interactive hardware, experimenting with microcontrollers, and designing solutions that combine software and physical systems.
-
----
-
-🚀 About Me
-
-- 🔧 Exploring embedded systems and electronics.
-- 🤖 Building Arduino-powered projects.
-- ✈️ Developing hardware controllers and interactive systems.
-- 🖨️ Experimenting with 3D modelling and prototyping.
-- 💡 Learning by building, testing, and improving.
+I enjoy learning through experimentation, developing prototypes, and improving ideas through hands-on engineering.
 
 ---
 
-🛠️ Technologies & Tools
+About
 
-Programming
+- Interested in embedded systems and electronics.
+- Developing Arduino-based hardware projects.
+- Exploring 3D modelling and rapid prototyping.
+- Learning C/C++ and hardware-software integration.
+- Interested in engineering innovation and collaborative projects.
 
-"C" "C++" "Arduino"
+Technical Skills
 
-Hardware & Engineering
+Category| Technologies
+Programming| C, C++, Arduino
+Hardware| Arduino, Microcontrollers, Sensors, Electronics
+Design| 3D Printing, STL Models, Prototyping
+Tools| Git, GitHub, Arduino IDE
 
-"Arduino" "Microcontrollers" "Electronics" "Sensors"
+Selected Projects
 
-Design & Development
+DIY Flight Simulator Controller
 
-"3D Printing" "STL" "Git" "GitHub"
+A custom USB flight controller featuring physical controls, toggle switches, and a 3D-printed enclosure.
 
----
+Focus: Embedded systems, hardware integration, and USB input devices.
 
-🌟 Featured Projects
+Memory Sequence Game
 
-✈️ DIY Flight Simulator Controller
+An interactive Arduino game that challenges players to reproduce increasingly complex LED sequences.
 
-A custom USB flight simulator controller featuring physical flight controls, toggle switches, and a 3D-printed enclosure.
+Focus: Game logic, digital electronics, and 3D-printed enclosure design.
 
-🧠 Memory Sequence Game
+Arduino Arcade Game
 
-An Arduino-based memory game featuring randomized LED sequences, physical button inputs, and custom 3D-printed components.
+An interactive arcade project combining microcontroller hardware, physical button controls, and custom game development.
 
-🕹️ Arduino Arcade Game
+Focus: Embedded programming and interactive systems.
 
-An interactive arcade project combining embedded hardware, button controls, and custom game development.
+GitHub Statistics
 
----
+"GitHub Metrics" (./github-metrics.svg)
 
-📊 GitHub Statistics
+Current Interests
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=dhyanrajbangera&show_icons=true&theme=tokyonight&hide_border=true)
+Embedded Systems · Robotics · Electronics · 3D Design · Hardware Prototyping
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=dhyanrajbangera&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-🛰️ Current Interests
-
-- Embedded systems
-- Robotics and automation
-- Hardware prototyping
-- Human-machine interaction
-- 3D design and manufacturing
-
----
-
-🤝 Let's Connect
+Contact
 
 - GitHub: "@dhyanrajbangera" (https://github.com/dhyanrajbangera)
 
 ---
 
-«"Great ideas become great projects when you start building."»
-
-Thanks for visiting my profile! 🚀## 
-
-
----
-
-## 📊 GitHub Metrics
-
-![GitHub Metrics](./github-metrics.svg)
-
-
-<!--
-**dhyanrajbangera/dhyanrajbangera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building, experimenting, and improving — one project at a time.

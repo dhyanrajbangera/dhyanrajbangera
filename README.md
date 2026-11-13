@@ -76,7 +76,15 @@ An interactive arcade project combining embedded hardware, button controls, and 
 
 «"Great ideas become great projects when you start building."»
 
-Thanks for visiting my profile! 🚀## Hi there 👋
+Thanks for visiting my profile! 🚀## 
+
+
+---
+
+## 📊 GitHub Metrics
+
+![GitHub Metrics](./github-metrics.svg)
+
 
 <!--
 **dhyanrajbangera/dhyanrajbangera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

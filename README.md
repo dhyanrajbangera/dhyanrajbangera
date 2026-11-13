@@ -44,9 +44,9 @@ An interactive arcade project combining microcontroller hardware, physical butto
 
 Focus: Embedded programming and interactive systems.
 
-GitHub Statistics
+## GitHub Statistics
 
-"GitHub Metrics" (./github-metrics.svg)
+![GitHub Metrics](./github-metrics.svg)
 
 Current Interests
 
